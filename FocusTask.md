@@ -1,3 +1,5 @@
+## FocusTask
+
 - Estudiante: Jhoiner Gonzalez Puerta
 - Asignatura: Desarrollo Web
 - Proyecto: FocusTask - Task Manager Web
@@ -59,5 +61,5 @@ Desarrollar una aplicacion web de gestion de tareas que permita a los usuarios o
 Pendiente por agregar despues del despliegue:
 
 ```text
-(https://focustask-idua.onrender.com)
+https://focustask-idua.onrender.com
 ```
