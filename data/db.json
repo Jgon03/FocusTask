@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "8fe0845e-13a3-47a1-9d1a-9fbabdb34d72",
+      "name": "Jhoiner Gonzalez",
+      "email": "jhoinerg69@gmail.com",
+      "password": "4275d01c517c7c719a64feefab384809:c602b8f68c603a80dbd308b2dd9d8342c24ea68f0912fa40e4b37e7b11594953af45d9b340bfcbbced1eb3b672455e4cfa5a86f57ea35436c5584df2e0c6f271"
+    },
+    {
+      "id": "b9e13989-3087-45ed-9f72-4008293bd737",
+      "name": "Usuario Validacion",
+      "email": "validacionad443893@focustask.local",
+      "password": "0491d03a4b1f700e24d38abe4afd8241:882a208ec6177e09cbb2dc03de3a2ca05ab68080278fc9969b73b512255462e73ddb77191302908fd633bd3891cb80b79d3f39368ecc883a00694a32469728dd"
+    }
+  ],
+  "tasks": []
+}

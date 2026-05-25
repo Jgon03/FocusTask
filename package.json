@@ -1,0 +1,18 @@
+{
+  "name": "focustask",
+  "version": "1.0.0",
+  "description": "FocusTask - Task Manager Web con autenticacion y CRUD de tareas.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "todo",
+    "task-manager",
+    "node",
+    "react",
+    "jwt"
+  ],
+  "author": "Jhoiner Gonzalez Puerta",
+  "license": "MIT"
+}
