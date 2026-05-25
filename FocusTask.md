@@ -1,7 +1,3 @@
-# Entrega del proyecto FocusTask
-
-## Datos generales
-
 - Estudiante: Jhoiner Gonzalez Puerta
 - Asignatura: Desarrollo Web
 - Proyecto: FocusTask - Task Manager Web
@@ -58,38 +54,10 @@ Desarrollar una aplicacion web de gestion de tareas que permita a los usuarios o
 - Archivo JSON como almacenamiento local demostrativo.
 - GitHub como repositorio sugerido.
 
-## Nota sobre alcance tecnico
-
-La propuesta academica inicial menciona React, TypeScript, Prisma y PostgreSQL. Para asegurar una entrega ejecutable en cualquier computador sin instalar paquetes adicionales, esta version usa Node.js, JavaScript local y almacenamiento JSON. La arquitectura conserva una API REST y puede migrarse despues a React, Prisma y PostgreSQL sin cambiar el flujo principal del usuario.
-
-## Instrucciones de ejecucion
-
-1. Abrir la carpeta del proyecto.
-2. Ejecutar `node server.js` o `npm start`.
-3. Abrir `http://localhost:3000`.
-4. Crear una cuenta de usuario.
-5. Crear y administrar tareas desde el tablero.
-
-## Enlace del repositorio
-
-Pendiente por agregar despues de subir el proyecto a GitHub:
-
-```text
-https://github.com/TU-USUARIO/focustask
-```
-
-## Enlace del proyecto funcionando
+## Enlace del proyecto
 
 Pendiente por agregar despues del despliegue:
 
 ```text
-https://TU-LINK-DE-DESPLIEGUE
-```
-
-## Recomendacion de despliegue
-
-Para publicar rapidamente se puede usar Render, Railway o una maquina local con Node.js. Como el proyecto usa un servidor Node, debe desplegarse como servicio web y ejecutar:
-
-```bash
-node server.js
+(https://focustask-idua.onrender.com)
 ```
